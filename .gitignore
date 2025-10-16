@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# IDE
+.idea/
+.vscode/
+
+# Docker
+.dockerignore
+
+# Database
+*.db
+*.sqlite3
+mysql_data/
+
+# Logs
+*.log
