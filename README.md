@@ -1,2 +1,2 @@
 # PYTHON-docker
-FastAPI with simple employee CRUD + Postgres
+FastAPI with simple employee CRUD + MySQL

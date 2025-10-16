@@ -1,0 +1,19 @@
+# FastAPI Core
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+pymysql
+alembic
+cryptography
+
+# Configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# Testing
+pytest
+pytest-asyncio
+httpx
